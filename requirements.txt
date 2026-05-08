@@ -2,3 +2,5 @@ pytesseract
 opencv-python
 python-docx
 pillow
+streamlit
+numpy
